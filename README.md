@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 关于我
+- 🎓 ECNU软件工程研究生在读，臭写Java的
+- 😍 喜爱篮球、乒乓球、音乐，不喜欢敲代码
+<a href='#'>
+  <img align="center" src='https://github-readme-stats.vercel.app/api?username=barret-yzh&show_icons=true&theme=flag-india&hide_border=true&count_private=true'>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barret-yzh&hide_border=true&layout=compact&langs_count=8" /> -->
+</a>
