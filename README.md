@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ## 关于我
 - 🎓 ECNU软件工程研究生在读，目标是后端/大模型开发，语言为Java、Go、Python
 - 😍 喜爱篮球、乒乓球、音乐
-- 欢迎和我交流～
+- ✌️ 欢迎和我交流～
