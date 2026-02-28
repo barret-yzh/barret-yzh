@@ -13,9 +13,9 @@
 
 ## 💼Intern experience:
 
-- **Meituan 2025.1-2025.7** - AI Coding Intern
-- **Bilibili 2025.7-2025.11** - Backend Development Intern
-- **Dewu 2025.11-now** - Backend Development Intern
+- **Meituan 2025.01.20-2025.06.27** - AI Coding Intern
+- **Bilibili 2025.07.01-2025.10.31** - Backend Development Intern
+- **Dewu 2025.11.20-2026.03.06** - Backend Development Intern
 
 ## ✅What I'm doing now:
 
