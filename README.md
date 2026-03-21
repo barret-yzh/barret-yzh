@@ -13,10 +13,10 @@
 
 ## 💼Intern experience:
 
-- **Meituan 2025.01.20-2025.06.27** - AI Coding Intern
-- **Bilibili 2025.07.01-2025.10.31** - Backend Development Intern
-- **Dewu 2025.11.20-2026.03.06** - Backend Development Intern
-- **ByteDance 2026.03.18-至今** - Agent Development Intern
+- **Meituan 2025.01.05-2025.06.27** - AI Coding Intern
+- **Bilibili 2025.07.01-2025.11.14** - Backend Development Intern
+- **Dewu 2025.11.20-2026.03.24** - Backend Development Intern
+- **ByteDance 2026.03.25-至今** - Agent Development Intern
 
 ## ✅What I'm doing now:
 
